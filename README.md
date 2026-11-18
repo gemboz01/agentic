@@ -1,1 +1,2 @@
-# agentic
+# Agentic
+My AI Agent Project
